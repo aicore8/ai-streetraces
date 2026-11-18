@@ -7,9 +7,9 @@ import {
   notify,
   player,
   waypoint,
-} from "@aifivem/lib/client";
-import type { MenuItem } from "@aifivem/shared";
-import { flatDistance, groupDigits } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import type { MenuItem } from "@aicore8/shared";
+import { flatDistance, groupDigits } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { EVENTS, type Settings } from "common/race";
 import type { Invites } from "./invites";

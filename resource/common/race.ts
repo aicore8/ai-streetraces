@@ -7,7 +7,7 @@ import {
   record,
   str,
   type Vec3,
-} from "@aifivem/lib/shared";
+} from "@aicore8/lib/shared";
 
 /** ai-streetraces' contracts and panel content. No natives. */
 

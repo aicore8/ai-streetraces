@@ -1,4 +1,4 @@
-import { aiLog, isNear, notify } from "@aifivem/lib/server";
+import { aiLog, isNear, notify } from "@aicore8/lib/server";
 import { Locale } from "common";
 import { COUNTDOWN_MS, EVENTS } from "common/race";
 import {

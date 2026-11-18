@@ -5,13 +5,13 @@ import {
   notify,
   online,
   playersNear,
-} from "@aifivem/lib/server";
+} from "@aicore8/lib/server";
 import { Locale } from "common";
 import { EVENTS, type Settings } from "common/race";
 import { driving } from "./checks";
 import { StreetRace } from "./race";
 import type { RaceHooks } from "./raceState";
-import { flatDistance } from "@aifivem/lib/shared";
+import { flatDistance } from "@aicore8/lib/shared";
 
 /** Extra metres around the invite radius a racer may stand from the start (joining, and when the join time ends). */
 const READY_SLACK = 25;
