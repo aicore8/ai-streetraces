@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/aicore8/ai-streetraces/compare/v0.1.5...v0.1.6) (2026-11-18)
+
+
+### Miscellaneous Chores
+
+* rename aifivem to aicore8 (aicore8.com, github.com/aicore8, [@aicore8](https://github.com/aicore8) npm scope) ([607004f](https://github.com/aicore8/ai-streetraces/commit/607004f61fc8a6fd757410f47f5c058621159a95))
+
 ## [0.1.5](https://github.com/aicore8/ai-streetraces/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
